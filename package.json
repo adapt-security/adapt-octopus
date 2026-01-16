@@ -15,10 +15,6 @@
   "homepage": "https://github.com/tomgreenfield/adapt-octopus#readme",
   "bin": "./bin/cli.js",
   "devDependencies": {
-    "eslint": "^8.57.1",
-    "eslint-config-standard": "^17.1.0",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.6.0"
+    "standard": "^17.1.2"
   }
 }
