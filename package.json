@@ -6,13 +6,13 @@
   "main": "./lib/Octopus.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomgreenfield/adapt-octopus.git"
+    "url": "git+https://github.com/adapt-security/adapt-octopus.git"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/tomgreenfield/adapt-octopus/issues"
+    "url": "https://github.com/adapt-security/adapt-octopus/issues"
   },
-  "homepage": "https://github.com/tomgreenfield/adapt-octopus#readme",
+  "homepage": "https://github.com/adapt-security/adapt-octopus#readme",
   "bin": "./bin/cli.js",
   "devDependencies": {
     "@semantic-release/commit-analyzer": "^13.0.1",
