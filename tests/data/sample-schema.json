@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "title": "Title",
+      "help": "The title of the component",
+      "default": "",
+      "translatable": true
+    },
+    "body": {
+      "type": "string",
+      "title": "Body",
+      "help": "The main body text",
+      "default": "",
+      "translatable": true
+    },
+    "isEnabled": {
+      "type": "boolean",
+      "title": "Is Enabled",
+      "default": true
+    },
+    "count": {
+      "type": "number",
+      "title": "Count",
+      "default": 0
+    }
+  }
+}
